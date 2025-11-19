@@ -1,6 +1,6 @@
 {
-  "name": "@frida/https",
-  "description": "Node.js's https module for Frida",
+  "name": "@ainakan/https",
+  "description": "Node.js's https module for Ainakan",
   "version": "1.0.0",
   "publishConfig": {
     "access": "public"
@@ -12,11 +12,11 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frida/gumjs-https.git"
+    "url": "https://github.com/ainakan/gumjs-https.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/frida/gumjs-https/issues"
+    "url": "https://github.com/ainakan/gumjs-https/issues"
   },
-  "homepage": "https://github.com/frida/gumjs-https#readme"
+  "homepage": "https://github.com/ainakan/gumjs-https#readme"
 }

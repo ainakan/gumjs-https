@@ -1,3 +1,3 @@
-# @frida/https
+# @ainakan/https
 
-Node.js's https module for Frida.
+Node.js's https module for Ainakan.
